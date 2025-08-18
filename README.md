@@ -1,7 +1,7 @@
-# Q1_Frontend
+# Q1 Frontend - React App
 
-## Setup Instructions
+## How to run
 
 1. Navigate to the frontend folder:
-```bash
-cd frontend
+   ```bash
+   cd Q1_Frontend/frontend
